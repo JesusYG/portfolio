@@ -13,7 +13,7 @@ const Hero = () => {
       </div>
       <div className="container flex flex-wrap items-center lg:flex-nowrap">
         <div className="order-2 lg:order-1">
-          <h1 className="mb-4">Adithya Sreyaj</h1>
+          <h1 className="mb-4">JesúsYG</h1>
           <p className="w-full text-white lg:w-4/5 max-w-96 md:text-lg xl:text-lg 2xl:text-xl !xl:leading-9">
             A Full stack developer working with Web technologies. <br />
             Loves to build highly scalable and maintainable web applications and

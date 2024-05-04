@@ -26,7 +26,7 @@ const Header = () => {
           className="w-10 h-10 opacity-80"
           height="40px"
           width="40px"
-          alt="Adithya Sreyaj Logo"
+          alt="JesúsYG Logo"
         />
       </div>
       <button

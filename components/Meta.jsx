@@ -6,7 +6,7 @@ const Meta = () => {
     <Head>
       <meta
         name="title"
-        content="Adithya Sreyaj - All things Web | Developer + Designer"
+        content="JesúsYG - All things Web | Developer + Designer"
       />
       <meta
         name="description"
@@ -47,7 +47,7 @@ const Meta = () => {
       <meta property="og:url" content="https://sreyaj.dev" />
       <meta
         property="og:title"
-        content="Adithya Sreyaj - All things Web | Developer + Designer"
+        content="JesúsYG - All things Web | Developer + Designer"
       />
       <meta
         property="og:description"
@@ -62,7 +62,7 @@ const Meta = () => {
       <meta property="twitter:url" content="https://sreyaj.dev/" />
       <meta
         property="twitter:title"
-        content="Adithya Sreyaj - All things Web | Developer + Designer"
+        content="JesúsYG - All things Web | Developer + Designer"
       />
       <meta
         property="twitter:description"

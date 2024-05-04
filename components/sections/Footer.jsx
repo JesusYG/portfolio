@@ -131,7 +131,7 @@ const Footer = () => {
             </svg>
           </a>
         </div>
-        <p className="text-sm">Copyright © 2021 - Adithya Sreyaj</p>
+        <p className="text-sm">Copyright © 2021 - JeússYG</p>
       </footer>
       <div className="w-full h-2 bg-primary-gradient"></div>
     </>
