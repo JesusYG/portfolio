@@ -1,9 +1,9 @@
 
   <p align="center">
-   <img src="portfolio.png" alt="JesusYG Portfolio">
+   <img src="portfolio.png" alt="JesúsYG Portfolio">
   </p>
 
-<h3 align="center">JesusYG's Portfolio</h3>
+<h3 align="center">JesúsYG's Portfolio</h3>
 Presenting my personal portfolio ✨ website where I showcase my projects 💻, blogs 📰 and more.
 
 I always wanted a portfolio, but wanted something that is different 🥳 from all the other portfolios out there. 
