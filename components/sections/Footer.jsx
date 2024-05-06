@@ -28,7 +28,7 @@ const Footer = () => {
             target="_blank"
             rel="noopener noreferrer"
             aria-label="Twitter"
-            href="https://twitter.com/AdiSreyaj"
+            href="https://twitter.com/JG9409388951852"
             className="hover:text-primary"
           >
             <svg
@@ -47,7 +47,7 @@ const Footer = () => {
             target="_blank"
             rel="noopener noreferrer"
             aria-label="LinkedIn"
-            href="https://www.linkedin.com/in/adithyasreyaj/"
+            href="https://www.linkedin.com/in/jes%C3%BAs-garc%C3%ADa-a07729222/"
             className="hover:text-primary"
           >
             <svg
@@ -63,7 +63,7 @@ const Footer = () => {
             </svg>
           </a>
           <a
-            href="https://blog.sreyaj.dev"
+            href="http://www.yohaal.com"
             className="hover:text-primary"
             target="_blank"
             rel="noopener noreferrer"
@@ -85,7 +85,7 @@ const Footer = () => {
             target="_blank"
             rel="noopener noreferrer"
             aria-label="Hashnode"
-            href="https://hashnode.com/@adisreyaj"
+            href="#"
             className="hover:text-primary"
           >
             <svg
@@ -112,7 +112,7 @@ const Footer = () => {
           <a
             target="_blank"
             rel="noopener noreferrer"
-            href="https://dev.to/adisreyaj"
+            href="#"
             className="hover:text-primary"
             aria-label="Dev.to"
           >
@@ -131,7 +131,7 @@ const Footer = () => {
             </svg>
           </a>
         </div>
-        <p className="text-sm">Copyright © 2021 - JeússYG</p>
+        <p className="text-sm">Copyright © 2024 - JesúsYG</p>
       </footer>
       <div className="w-full h-2 bg-primary-gradient"></div>
     </>
