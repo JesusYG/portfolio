@@ -9,7 +9,7 @@ const Footer = () => {
             aria-label="Github"
             target="_blank"
             rel="noopener noreferrer"
-            href="https://github.com/adisreyaj"
+            href="https://github.com/JesusYG"
             className="hover:text-primary"
           >
             <svg
